@@ -6,12 +6,11 @@ This Python program determines which of the two input numbers is greater and the
 1. The program starts by printing a message that explains its purpose, which is to find out which of the two input numbers is greater. <br>
 2. It then prompts the user to enter two integer values, 'a' and 'b', using the input function, and converts these inputs into integers using int(). <br>
 3. The program uses an if statement to compare 'a' and 'b' to determine which one is greater.<br>
-<blockquote>
 *   If 'a' is greater than 'b', it prints "a son katta -" followed by the value of 'a'.
 *   If 'b' is greater than 'a', it prints "b son katta -" followed by the value of 'b'.
 *   If 'a' and 'b' are equal, it does not enter either branch of the if statement.
-</blockquote>
-4. The program displays the result to the user.
+4. The program displays the result to the user.<br>
+
 # How to Use:
 
 1. Run the program typing with: <br>
